@@ -1,0 +1,5 @@
+# System-specific files
+.DS_Store
+
+# Generated folders and files
+node_modules
